@@ -1,0 +1,1 @@
+Matricula: 763167 	Tempo de execução em milisegundos: 1687013936550	 Numero de comparações na pesquisa: 100

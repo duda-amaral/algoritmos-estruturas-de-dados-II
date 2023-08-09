@@ -1,0 +1,1 @@
+Matricula: 763167 	Tempo de execução em milisegundos: 1684292620583	 Numero de trocas entre elementos: 3714	 Numero de comparacoes no vetor: 4681

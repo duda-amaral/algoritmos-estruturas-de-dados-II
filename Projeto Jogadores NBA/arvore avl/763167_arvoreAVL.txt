@@ -1,0 +1,1 @@
+Matricula: 763167 	Tempo de execução em milisegundos: 1686192854548	 Numero de comparações na arvore: 100
